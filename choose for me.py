@@ -1,6 +1,6 @@
 #Script Python --- 3. Decida por mim
 
-#Importação do módulo random e randint
+#Importação do módulo random e choice
 import random 
 from random import choice 
 
